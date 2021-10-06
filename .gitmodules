@@ -1,3 +1,3 @@
 [submodule "python-test-system"]
-	path = python-test-system
+	path = python_test_system
 	url = git@github.com:alirezaarzehgar/python-test-system.git
