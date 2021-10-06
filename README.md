@@ -22,7 +22,7 @@ class Demo(Runable):
 Then you should add this class to main.py
 
 ```python
-+ from modules.demo # TODOimport Demo
++ from modules.demo
 from python_test_system import TestSystem
 
 
